@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Noobuyer
-- 👀 I’m interested in ...java, python, games, blockchain, cryptocurrency
-- 🌱 I’m currently learning ...Wordpress, HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, PYTHON
-- 💞️ I’m looking to collaborate on ...games, nft-gaming, small projects
-- 📫 How to reach me ...send mp-or ask for contact
+I am a profile that combines systems and finance, a unique combination of skills and knowledge. This combination can be very valuable in the modern business world. As a professional with a profile in finance and systems, I can analyze complex financial data and use IT tools to automate financial processes. In addition, you will be able to design and develop computer systems that are efficient and effective for the financial needs of a company. In short, I have a powerful combination that can help companies make informed decisions and improve their efficiency.
 
 <!---
 Noobuyer/Noobuyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
